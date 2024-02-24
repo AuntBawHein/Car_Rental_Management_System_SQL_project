@@ -328,7 +328,10 @@ FROM Payment
 JOIN Transaction_table ON Payment.Tran_id = Transaction_table.Tran_id;
 
 Step 5: I’m going to show you the table diagram of all objects and entities here.
-![entity relationship_car rental](https://github.com/AuntBawHein/Car_Rental_Management_System_SQL_project/assets/150255399/167142c5-98d9-490a-850b-364bfc59fc6b)
+![entity relationship_car rental](https://github.com/AuntBawHein/Car_Rental_Management_System_SQL_project/assets/150255399/ba7df0ae-7ff3-4196-b59f-d578e176b5d1)
+
+
+
 
 
 Step 6: I’m going to show you SQL Car Rental Management System Project database.
